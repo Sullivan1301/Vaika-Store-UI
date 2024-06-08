@@ -8,24 +8,24 @@ type RowObj = {
 
 const tableDataCheck: RowObj[] = [
   {
-    name: ['Horizon UI PRO', true],
+    name: ['Vaika Store Admin', true],
     quantity: 2458,
     progress: '17.5%',
-    date: '12 Jan 2021',
+    date: '13 Jan 2024',
     info: true,
   },
   {
-    name: ['Horizon UI Free', true],
+    name: ['Vaika Store Client', true],
     quantity: 1485,
     progress: '10.8%',
-    date: '21 Feb 2021',
+    date: '21 Feb 2024',
     info: true,
   },
   {
     name: ['Weekly Update', true],
     quantity: 1024,
     progress: '21.3%',
-    date: '13 Mar 2021',
+    date: '13 Mar 2024',
     info: true,
   },
   {
@@ -39,7 +39,7 @@ const tableDataCheck: RowObj[] = [
     name: ['Marketplace', true],
     quantity: 258,
     progress: '12.2%',
-    date: '24 Oct 2022',
+    date: '24 Oct 2023',
     info: true,
   },
 ];

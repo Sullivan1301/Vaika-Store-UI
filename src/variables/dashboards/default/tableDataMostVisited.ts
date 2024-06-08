@@ -15,7 +15,7 @@ const tableDataComplex: RowObj[] = [
     bounceRate: '+2.45%',
   },
   {
-    pageName: 'Horizon UI Dashboard',
+    pageName: 'Vaika Store Dashboard',
     visitors: '4.034',
     unique: '2.943',
     clients: '427',
@@ -36,7 +36,7 @@ const tableDataComplex: RowObj[] = [
     bounceRate: '-1.44%',
   },
   {
-    pageName: 'Simmmple Company',
+    pageName: 'Vaikoa Store Company',
     visitors: '3.244',
     unique: '2.302',
     clients: '287',

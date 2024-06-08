@@ -34,7 +34,6 @@ function SidebarHorizon(props: { variant?: string; [x: string]: any }) {
       <Card
         extra={`mr-3 w-full h-[96.5vh] sm:ml-4 sm:my-4 m-7 !rounded-[20px]`}
       >
-        {/* @ts-expect-error */}
         <Scrollbars
           autoHide
           renderTrackVertical={renderTrack}
@@ -59,7 +58,7 @@ function SidebarHorizon(props: { variant?: string; [x: string]: any }) {
                       : 'hidden'
                   }`}
                 >
-                  Horizon <span className="font-medium">PRO</span>
+                  Vaika <span className="font-medium">Store</span>
                 </div>
                 <div
                   className={`mr-1 mt-1 h-2.5 font-poppins text-[26px] font-bold uppercase text-navy-700 dark:text-white ${
