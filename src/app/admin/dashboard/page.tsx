@@ -1,5 +1,4 @@
 'use client'
-import PageTitle from "../../../components/PageTitle";
 import MiniCalendar from '../../../components/calendar/MiniCalendar';
 import WeeklyRevenue from '../../../components/admin/default/WeeklyRevenue';
 import TotalSpent from '../../../components/admin/default/TotalSpent';
@@ -21,9 +20,7 @@ import tableDataComplex from '../../../variables/data-tables/tableDataComplex';
 export default function Dashboard() {
   return (
     <div>
-      <PageTitle title="Dashboard" />
       {/* Card widget */}
-
       <div className="mt-3 grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-3 3xl:grid-cols-6">
         <Widget
           icon={<MdBarChart className="h-7 w-7" />}

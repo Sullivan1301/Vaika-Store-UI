@@ -11,8 +11,8 @@ export const calendarData: RowObj[] = [
   {
     title: 'Meeting with a client',
     borderColor: 'transparent',
-    start: '2022-09-27',
-    end: '2022-09-29',
+    start: '2023-06-08',
+    end: '2023-06-08',
     backgroundColor: '#7551FF',
     className: 'info',
   },
